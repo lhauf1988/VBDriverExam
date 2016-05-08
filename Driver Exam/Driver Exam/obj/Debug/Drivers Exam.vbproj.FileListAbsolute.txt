@@ -69,3 +69,7 @@ C:\Users\Lucas Dev\Documents\Portfolio Projects\Driver Exam\Driver Exam\Driver E
 C:\Users\Lucas Dev\Documents\Portfolio Projects\Driver Exam\Driver Exam\Driver Exam\Driver Exam\obj\Debug\WindowsApplication3.frmDriverApp2.resources
 C:\Users\Lucas Dev\Documents\Portfolio Projects\Driver Exam\Driver Exam\Driver Exam\Driver Exam\obj\Debug\WindowsApplication3.Resources.resources
 C:\Users\Lucas Dev\Documents\Portfolio Projects\Driver Exam\Driver Exam\Driver Exam\Driver Exam\obj\Debug\Drivers Exam.vbproj.GenerateResource.Cache
+C:\Users\Lucas Dev\Source\Repos\VBDriverExam\Driver Exam\Driver Exam\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Lucas Dev\Source\Repos\VBDriverExam\Driver Exam\Driver Exam\obj\Debug\WindowsApplication3.exe
+C:\Users\Lucas Dev\Source\Repos\VBDriverExam\Driver Exam\Driver Exam\obj\Debug\WindowsApplication3.xml
+C:\Users\Lucas Dev\Source\Repos\VBDriverExam\Driver Exam\Driver Exam\obj\Debug\WindowsApplication3.pdb

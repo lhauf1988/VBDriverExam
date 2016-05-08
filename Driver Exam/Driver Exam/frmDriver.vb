@@ -32,7 +32,7 @@
         lblQuestionSet.Visible = True
         lblUserName.Visible = True
         btnNext.Visible = True
-        btnBack.Visible = True
+        btnBack.Visible = False 'lucas was here
         btnBack.Enabled = False
         lblUserName.Visible = True
 
